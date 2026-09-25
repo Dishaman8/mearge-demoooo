@@ -1,3 +1,4 @@
 bash
 Feature A
 typo fix
+feature A done
